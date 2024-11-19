@@ -1,4 +1,4 @@
-Business questions:
+Perguntas de negócios:
 
 1. Qual a quantidade de voos totais?
 
@@ -11,3 +11,19 @@ Business questions:
 5. Quantos voos foram cancelados em 2015? Qual a % de cancelamentos devido ao clima? Qual a % devido à companhia aérea/transportadora?
 
 6. Quais companhias aéreas parecem ser mais e menos confiáveis ​​em termos de partida pontual?
+
+
+
+Business Questions:
+
+1. How many flights were there in total?
+
+2. How did the overall volume of flights vary by month? By day of the week?
+
+3. What percentage of flights were delayed in 2015? Of those flights, what was the average delay time, in minutes?
+
+4. How did the % of flights delayed vary throughout the year? What about flights departing from Boston (BOS) specifically?
+
+5. How many flights were canceled in 2015? What was the % of cancellations due to weather? What was the % due to the airline/carrier?
+
+6. Which airlines seem to be the most and least reliable in terms of on-time departure?
