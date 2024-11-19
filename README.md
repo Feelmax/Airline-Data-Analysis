@@ -21,6 +21,7 @@ Os dados foram pré-processados e armazenados em um banco de dados relacional co
 
 ### Tecnologias Utilizadas
 - SQL: Para consultas e manipulação dos dados.
+- Power Bi: Para criação de gráficos.
 - Python: Para visualizações e análises adicionais.
 - Jupyter Notebook: Para documentar e apresentar as análises.
 - Matplotlib/Seaborn/Plotly: Para criar gráficos e visualizações.
