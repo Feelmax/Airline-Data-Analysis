@@ -1,0 +1,13 @@
+Business questions:
+
+1. Qual a quantidade de voos totais?
+
+2. Como o volume geral de voos varia por mês? Por dia da semana?
+
+3. Qual a porcentagem de voos que tiveram atraso na partida em 2015? Entre esses voos, qual foi o tempo médio de atraso, em minutos?
+
+4. Como a % de voos atrasados ​​varia ao longo do ano? E quanto aos voos que saem de Boston (BOS) especificamente?
+
+5. Quantos voos foram cancelados em 2015? Qual a % de cancelamentos devido ao clima? Qual a % devido à companhia aérea/transportadora?
+
+6. Quais companhias aéreas parecem ser mais e menos confiáveis ​​em termos de partida pontual?
