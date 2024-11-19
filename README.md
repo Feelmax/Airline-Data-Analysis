@@ -39,3 +39,7 @@ Os dados foram pré-processados e armazenados em um banco de dados relacional co
 - Atrasos são mais frequentes no verão e em certos dias da semana.
 - Os motivos mais comuns para cancelamentos incluem condições climáticas e problemas operacionais.
 - Algumas companhias aéreas apresentam melhores índices de pontualidade do que outras, destacando a importância de práticas operacionais eficientes.
+
+### Dataset link:
+- O dataset foi obtido no Kaggle
+- Link: https://www.kaggle.com/datasets/usdot/flight-delays
