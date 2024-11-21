@@ -14,7 +14,7 @@ As análises são realizadas em SQL, com visualizações geradas para interpreta
 ### Conjunto de Dados
 Os dados utilizados neste projeto incluem informações detalhadas de voos, tais como:
 - Aeroportos de origem e destino.
-- Horários programados e reais de partida e chegada.
+- Horários programados reais de partida e chegada.
 - Informações sobre atrasos e cancelamentos.
 - Detalhes sobre companhias aéreas.
 Os dados foram pré-processados e armazenados em um banco de dados relacional com múltiplas tabelas.
@@ -24,19 +24,27 @@ Os dados foram pré-processados e armazenados em um banco de dados relacional co
 - Power Bi: Para criação de gráficos.
 - Python: Para visualizações e análises adicionais.
 - Jupyter Notebook: Para documentar e apresentar as análises.
-- Matplotlib/Seaborn/Plotly: Para criar gráficos e visualizações.
 - GitHub: Para versionamento e compartilhamento do projeto.
 
 ### Estrutura do Projeto
-- sql_queries/: Contém todas as consultas SQL criadas.
+- sql_queries: Contém todas as consultas SQL criadas.
 - notebooks/: Análises documentadas em formato de notebook interativo.
-- visualizations/: Gráficos e visualizações geradas.
+- images/: Gráficos e visualizações geradas.
 - data/: Scripts para carregar os dados ou exemplos de dados brutos.
 - README.md: Descrição geral do projeto.
+- business_quetins: Perguntas respondidas
 
 ### Resultados e Descobertas
 - Identificamos padrões sazonais e semanais no volume de voos.
 - Atrasos são mais frequentes no verão e em certos dias da semana.
+
+<div align="center">
+  A análise dos dados de voo
+  <p>Este gráfico mostra os atrasos por horário.</p>
+  <img src="https://raw.githubusercontent.com/maxwellsantos94/Airline-Data-Analysis/main/images/atrasos_horario_pizza.png" alt="Gráfico de Atrasos por Horário">
+</div>
+
+
 - Os motivos mais comuns para cancelamentos incluem condições climáticas e problemas operacionais.
 - Algumas companhias aéreas apresentam melhores índices de pontualidade do que outras, destacando a importância de práticas operacionais eficientes.
 
