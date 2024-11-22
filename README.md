@@ -35,18 +35,37 @@ Os dados foram pré-processados e armazenados em um banco de dados relacional co
 - business_quetins: Perguntas respondidas
 
 ### Resultados e Descobertas
-- Identificamos padrões sazonais e semanais no volume de voos.
-- Atrasos são mais frequentes no verão e em certos dias da semana.
-
-<div align="center">
-  A análise dos dados de voo
-  <p>Este gráfico mostra os atrasos por horário.</p>
-  <img src="https://raw.githubusercontent.com/maxwellsantos94/Airline-Data-Analysis/main/images/atrasos_horario_pizza.png" alt="Gráfico de Atrasos por Horário">
+1. Como o volume geral de voos varia por mês? Por dia da semana?
+- Por mês: Existe uma variação sazonal, com maior volume de voos nos meses de verão (junho-agosto)
+<div align="center"
+  <p>Este gráfico mostra o volume geral de voos por mês.</p>
+  <img src="https://github.com/maxwellsantos94/Airline-Data-Analysis/blob/main/images/volume_geral_por_mes_colunas.png?raw=true">
 </div>
 
+- Por dia da semana: Os dias entre segunda e quinta (1-5) têm mais voos que as sextas e sábados (6 e 7)
+<div align="center"
+  <p>Este gráfico mostra o volume geral de voos por semana.</p>
+  <img src="https://github.com/maxwellsantos94/Airline-Data-Analysis/blob/main/images/volume_geral_por_semana_colunas.png?raw=true">
+</div>
 
+2. Qual a porcentagem de voos que tiveram atraso na partida em 2015? Entre esses voos, qual foi o tempo médio de atraso, em minutos?
+<div align="center">
+  A análise dos dados de voo
+  <p>Este gráfico mostra a porcentagem geral de voos atrasados e no horário correto.</p>
+  <img src="https://github.com/maxwellsantos94/Airline-Data-Analysis/blob/main/images/atrasos_horario_pizza.png?raw=true">
+  <p>Tempo Médio de Atraso (minutos)  32.67</p>
+</div>
+
+3. Como a % de voos atrasados ​​varia ao longo do ano? E quanto aos voos que saem de Boston (BOS) especificamente?
+- Para analisar como a porcentagem de voos atrasados ​​varia ao longo do ano e especificamente para voos partindo de Boston (BOS), vou agrupar os dados por mês e calcular a porcentagem de voos atrasados ​​para cada mês, tanto no geral quanto para BOS.
+
+4. Quantos voos foram cancelados em 2015? Qual a % de cancelamentos devido ao clima? Qual a % devido à companhia aérea/transportadora?
 - Os motivos mais comuns para cancelamentos incluem condições climáticas e problemas operacionais.
+
+
+5. Quais companhias aéreas parecem ser mais e menos confiáveis ​​em termos de partida pontual?
 - Algumas companhias aéreas apresentam melhores índices de pontualidade do que outras, destacando a importância de práticas operacionais eficientes.
+
 
 ### Dataset link:
 - O dataset foi obtido no Kaggle
