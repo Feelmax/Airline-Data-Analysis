@@ -30,7 +30,6 @@ Os dados foram pré-processados e armazenados em um banco de dados relacional co
 - sql_queries: Contém todas as consultas SQL criadas.
 - notebooks/: Análises documentadas em formato de notebook interativo.
 - images/: Gráficos e visualizações geradas.
-- data/: Scripts para carregar os dados ou exemplos de dados brutos.
 - README.md: Descrição geral do projeto.
 - business_quetins: Perguntas respondidas
 
